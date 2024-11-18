@@ -35,4 +35,6 @@ Project 3: Created interactive dashboards to visualize business performance metr
 💬 Let's Connect: Explore my repositories to see how data transforms into strategic insights. I'm always open to collaboration and learning opportunities.
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mohamed-wanas/)  
+
 
