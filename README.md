@@ -23,14 +23,6 @@ Databases: SQL, MySQL
 
 Statistical Methods: Regression Analysis, Hypothesis Testing, ANOVA
 
-🚀 Notable Projects:
-
-Project 1: Conducted an in-depth market analysis to identify key growth opportunities.
-
-Project 2: Developed predictive models to enhance customer retention strategies.
-
-Project 3: Created interactive dashboards to visualize business performance metrics.
-
 🌱 Continual Growth: Driven by a passion for learning, I am currently expanding my knowledge in Machine learning and Data science
 
 💬 Let's Connect: Explore my repositories to see how data transforms into strategic insights. I'm always open to collaboration and learning opportunities.
