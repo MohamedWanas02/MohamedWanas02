@@ -2,9 +2,11 @@
 #### Data Analyst with a robust understanding of business and statistical analysis.
 ![Data Analyst with a robust understanding of business and statistical analysis.](https://media.licdn.com/dms/image/v2/D4E16AQGIj-uVgxBA2g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729973425918?e=1737590400&v=beta&t=yn82AdZKuHamaevld1az0hyUXkhD61K752bqJxp4E7c)
 
- What I Do:
+![Developer at Work](https://via.placeholder.com/800x400) <!-- Update with your image URL -->
 
-Data Cleaning & Preparation: Ensuring data integrity through meticulous cleaning processes.
+  What I Do:
+
+  Data Cleaning & Preparation: Ensuring data integrity through meticulous cleaning processes.
 
 Exploratory Data Analysis (EDA): Identifying trends and patterns to uncover hidden insights.
 
@@ -14,7 +16,7 @@ Data Visualization: Crafting compelling visual narratives using tools like Power
 
 📊 Skills & Expertise:
 
-Programming Languages: Python, R
+Programming Languages: Python
 
 Data Analysis Libraries: Pandas, NumPy, Scikit-learn
 
