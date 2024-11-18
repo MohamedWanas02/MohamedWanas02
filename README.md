@@ -15,7 +15,7 @@ Data Visualization: Crafting compelling visual narratives using tools like Power
 
 Programming Languages: Python, SQL
 
-Data Analysis Libraries: Pandas, NumPy, Scikit-learn
+Data Analysis Libraries: Pandas, NumPy, matplotlib, seaborn, Scikit-learn
 
 Business Analytics Tools: Power BI, Excel
 
@@ -26,10 +26,6 @@ Statistical Methods: Regression Analysis, Hypothesis Testing, ANOVA
 🌱 Continual Growth: Driven by a passion for learning, I am currently expanding my knowledge in Machine learning and Data science
 
 💬 Let's Connect: Explore my repositories to see how data transforms into strategic insights. I'm always open to collaboration and learning opportunities.
-
-
-
-- 🔭 I’m currently working on this page. 
 
 
 
