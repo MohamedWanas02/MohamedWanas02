@@ -1,9 +1,7 @@
 ### Hi there 👋, I'm Mohamed Wanas
 #### Data Analyst with a robust understanding of business and statistical analysis.
-![Data Analyst with a robust understanding of business and statistical analysis.](https://media.licdn.com/dms/image/v2/D4E16AQGIj-uVgxBA2g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729973425918?e=1737590400&v=beta&t=yn82AdZKuHamaevld1az0hyUXkhD61K752bqJxp4E7c)
 
-
-💻What I Do:
+💻 What I Do:
 
 Data Cleaning & Preparation: Ensuring data integrity through meticulous cleaning processes.
 
@@ -15,7 +13,7 @@ Data Visualization: Crafting compelling visual narratives using tools like Power
 
 📊 Skills & Expertise:
 
-Programming Languages: Python
+Programming Languages: Python, SQL
 
 Data Analysis Libraries: Pandas, NumPy, Scikit-learn
 
@@ -33,35 +31,13 @@ Project 2: Developed predictive models to enhance customer retention strategies.
 
 Project 3: Created interactive dashboards to visualize business performance metrics.
 
-🌱 Continual Growth: Driven by a passion for learning, I am currently expanding my knowledge in [mention any new technologies or skills you’re learning].
+🌱 Continual Growth: Driven by a passion for learning, I am currently expanding my knowledge in Machine learning and Data science
 
 💬 Let's Connect: Explore my repositories to see how data transforms into strategic insights. I'm always open to collaboration and learning opportunities.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+
 
 - 🔭 I’m currently working on this page. 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mohamed-wanas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mohamd.esam.739)  
-
-
-Databases: SQL, MySQL
-
-Statistical Methods: Regression Analysis, Hypothesis Testing, ANOVA
-
-🚀 Notable Projects:
-
-Project 1: Conducted an in-depth market analysis to identify key growth opportunities.
-
-Project 2: Developed predictive models to enhance customer retention strategies.
-
-Project 3: Created interactive dashboards to visualize business performance metrics.
-
-🌱 Continual Growth: Driven by a passion for learning, I am currently expanding my knowledge in [mention any new technologies or skills you’re learning].
-
-💬 Let's Connect: Explore my repositories to see how data transforms into strategic insights. I'm always open to collaboration and learning opportunities.
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mohamed-wanas/)  
 
 
