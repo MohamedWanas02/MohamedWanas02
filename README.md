@@ -1,5 +1,7 @@
 ### Hi there 👋,  Hi there! I'm Mohamed Wanas
 #### Data Analyst with a robust understanding of business and statistical analysis.
+src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mohamed-wanas/)  )
+
 🔍 What I Do:
 
 Data Cleaning & Preparation: Ensuring data integrity through meticulous cleaning processes.
