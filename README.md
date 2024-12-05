@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi there 👋, I'm Mohamed Wanas
+#### Data Analyst with a robust understanding of business and statistical analysis.
 
-<!--
-**MohamedWanas02/MohamedWanas02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 What I Do:
+Data Cleaning & Preparation: Ensuring data integrity through meticulous cleaning processes.
 
-Here are some ideas to get you started:
+Exploratory Data Analysis (EDA): Identifying trends and patterns to uncover hidden insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Predictive Modeling & Statistical Analysis: Utilizing advanced statistical techniques and machine learning to forecast outcomes and support decision-making.
+
+Data Visualization: Crafting compelling visual narratives using tools like Power BI and Tableau to drive strategic business decisions.
+
+📊 Skills & Expertise:
+Programming Languages: Python, SQL
+
+Data Analysis Libraries: Pandas, NumPy, matplotlib, seaborn, Scikit-learn
+
+Business Analytics Tools: Power BI, Excel
+
+Databases: SQL, MySQL
+
+Statistical Methods: Regression Analysis, Hypothesis Testing, ANOVA
+
+🌱 Continual Growth: Driven by a passion for learning, I am currently expanding my knowledge in Machine learning and Data science
+
+💬 Let's Connect: Explore my repositories to see how data transforms into strategic insights. I'm always open to collaboration and learning opportunities.
+
